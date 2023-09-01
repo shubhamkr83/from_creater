@@ -4,7 +4,7 @@
 1. Clone repository
 
 ```shell
-git clone https://github.com/jackbalageru/MERN-CRUD.git
+git clone https://github.com/shubhamkr83/from_creater
 ```
 
 ## Install Client (React Files)
